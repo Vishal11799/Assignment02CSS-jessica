@@ -298,6 +298,12 @@ footer {
     height: 50vh;
     margin: 0 auto;
     text-decoration: none;
+    padding-top: 34px;
+    line-height: 1.5;
+}
+
+footer .row li{
+    list-style-type: none;
 }
 
 h5 {
@@ -305,3 +311,8 @@ h5 {
     font-weight: 600;
     line-height: 1.2;
 }
+
+.row .Features  ul li {
+    list-style-type: none ;
+}
+
