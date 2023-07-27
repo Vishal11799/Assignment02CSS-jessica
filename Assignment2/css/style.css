@@ -258,99 +258,6 @@
     color: white;
 }
 
-
-/* .box2 
-{
-    padding: 1rem !important;
-    margin-bottom: 1rem!important;
-    margin-top: 1rem!important;
-    box-sizing: border-box;
-    text-align: center;
-    width: 50%;
-    background-color: #f8f9fa;
-}
-.box2 .box
-{
-    width:80%;
-    height:300px;
-    border-radius: 21px 21px 0 0 ;
-    box-shadow: 0  0.25rem 0.75rem rgba(0,0,0,.05);
-    margin-left: auto!important;
-    margin-right: auto!important;
-    background-color: #343a40!important;
-    box-sizing: border-box;
-    text-align: center;
-    margin-top: 2rem;
-    margin-bottom: 2rem;
-}
-.third-page
-{
-    display:flex;
-    width:100%!important;
-}
-.box3
-{
-    padding: 1rem !important;
-    margin-bottom: 1rem!important;
-    margin-top: 1rem!important;
-    box-sizing: border-box;
-    text-align: center;
-    width: 50%;
-    background-color: #007bff;
-
-}
-.box3 .uptext
-{
-    color: #fff;
-}
-.box3 .box
-{
-    width:80%;
-    height:300px;
-    border-radius: 21px 21px 0 0 ;
-    box-shadow: 0  0.25rem 0.75rem rgba(0,0,0,.05);
-    margin-left: auto!important;
-    margin-right: auto!important;
-    background-color:#fff!important;
-    box-sizing: border-box;
-    text-align: center;
-    margin-top: 2rem;
-    margin-bottom: 2rem;
-}
-.forth-page
-{
-    display:flex;
-    width:100%!important;
-}
-.box4
-{
-    padding: 1rem !important;
-    margin-bottom: 1rem!important;
-    margin-top: 1rem!important;
-    box-sizing: border-box;
-    text-align: center;
-    width: 50%;
-    background-color:#f8f9fa;
-
-}
-.box4 .uptext
-{
-    color:#333;
-}
-.box4 .box
-{
-    width:80%;
-    height:300px;
-    border-radius: 21px 21px 0 0 ;
-    box-shadow: 0  0.25rem 0.75rem rgba(0,0,0,.05);
-    margin-left: auto!important;
-    margin-right: auto!important;
-    background-color:#fff!important;
-    box-sizing: border-box;
-    text-align: center;
-    margin-top: 2rem;
-    margin-bottom: 2rem;
-} */
 .row {
     display: flex;
     width: 100%;
@@ -383,4 +290,18 @@
 
 .about {
     width: 20%;
+}
+
+
+footer {
+    width: 80%;
+    height: 50vh;
+    margin: 0 auto;
+    text-decoration: none;
+}
+
+h5 {
+    font-size: 25px;
+    font-weight: 600;
+    line-height: 1.2;
 }
